@@ -1,4 +1,4 @@
-module github.com/gin-gonic/gin
+module github.com/vearne/gin
 
 go 1.12
 
